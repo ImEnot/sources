@@ -1,6 +1,4 @@
 @font-face {
-  font-family: 'SF UI Display Heavy';
-  font-style: normal;
-  font-weight: 400;
-  src: local('SF UI Display Heavy'), local('SF UI Display Heavy'), url(https://ImEnot.github.io/sources/fonts/SF-UI-Display-Heavy.ttf) format('ttf');
+    font-family: 'SFUI';
+    src: url('https://ImEnot.github.io/sources/fonts/SF-UI-Display-Heavy.ttf');
 }
