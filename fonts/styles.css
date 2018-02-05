@@ -1,4 +1,8 @@
 @font-face {
-    font-family: 'SFUI';
+    font-family: 'SFUI_heavy';
     src: url('https://ImEnot.github.io/sources/fonts/SF-UI-Display-Heavy.ttf');
+}
+@font-face {
+    font-family: 'SFUI_bold';
+    src: url('https://ImEnot.github.io/sources/fonts/SFUIDisplay-Bold.ttf');
 }
